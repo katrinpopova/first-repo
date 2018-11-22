@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+  <connector>
+    <saved-state fixedSizes="false" escapeSequence="" fieldSeparator=";" stringQualifierEscapeSequence="" recordLength="-1" numberOfLinesInFooter="0" encoding="UTF-8" lineWithColumnNames="-1" ignoredRowRegEx="" recordSeparator="\r\n" stringQualifier="" numberOfLinesInHeader="0">
+      <columns/>
+    </saved-state>
+  </connector>
+</settings>
